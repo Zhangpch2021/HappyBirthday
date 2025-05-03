@@ -1,31 +1,31 @@
 {
-  "greeting": "你好啊",
-  "name": "XX",
-  "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
-  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
-  "imagePath": "img/lydia2.png",
-  "text1": "今天是你的生日啊!!! :D",
-  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
-  "sendButtonLabel": "发送",
-  "text2": "我想给你一个惊喜",
-  "text3": "我认真的想了很久",
-  "text4": "我认识到，我想要做一些",
-  "text4Adjective": "特殊的事情",
-  "text5Entry": "因为，",
-  "text5Content": "你对于我来说，很特殊",
-  "smiley": ":)",
-  "bigTextPart1": "所",
-  "bigTextPart2": "以",
-  "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
-  "outroSmiley": ":)",
-  "music": "./music/bgMusic.mp3",
-  "fonts": [
-    {
-      "name": "Ma Shan Zheng",
-      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
-    }
-  ]
-}
-
+    "greeting": "亲爱的舅妈，您好呀～",
+    "name": "亲爱的舅妈",
+    "greetingText": "很开心能在这个特别的日子，为最温暖的您送上祝福",
+    "wishText": "愿您笑容常在，岁月不改温柔；愿时光善待，健康与快乐常伴。",
+    "imagePath": "img/lydia2.png",
+    "text1": "今天是您的生日啊!!! 🥳",
+    "textInChatBox": "满满的祝福都藏在这一句里：生日快乐，舅妈！愿您天天开心、事事顺心～",
+    "sendButtonLabel": "送上祝福",
+    "text2": "我给您准备了一个小惊喜",
+    "text3": "我思考了好久该怎么表达心意",
+    "text4": "最后决定，做一件",
+    "text4Adjective": "特别温馨的事",
+    "text5Entry": "因为，",
+    "text5Content": "您对我来说，真的很重要",
+    "smiley": "😊",
+    "bigTextPart1": "感",
+    "bigTextPart2": "恩",
+    "wishHeading": "祝您生日快乐！",
+    "outroText": "希望这个小小的心意能让您开心一笑～",
+    "replayText": "如果您喜欢这个小惊喜，也可以再看一次哦～或者分享给家人看看 😊",
+    "outroSmiley": "🌸",
+    "music": "./music/bgMusic.mp3",
+    "fonts": [
+      {
+        "name": "Ma Shan Zheng",
+        "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+      }
+    ]
+  }
+  
